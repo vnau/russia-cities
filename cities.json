@@ -6,6 +6,7 @@
       "iso13": "RUS",
       "lat": 61.52401,
       "long": 105.318756,
+      "okato": 643,
       "population": 145934460,
       "regions": [
         {
@@ -15,6 +16,7 @@
               "iso3": "RU-AD",
               "lat": 44.6939006,
               "long": 40.1520421,
+              "okato": 79000000000,
               "population": 463453,
               "regions": [
                 {
@@ -79,6 +81,7 @@
               "iso3": "RU-AST",
               "lat": 47.1878186,
               "long": 47.608851,
+              "okato": 12000000000,
               "population": 1005967,
               "regions": [
                 {
@@ -242,6 +245,7 @@
               "iso3": "RU-VGG",
               "lat": 49.6048339,
               "long": 44.2903582,
+              "okato": 18000000000,
               "population": 2491751,
               "regions": [
                 {
@@ -602,11 +606,11 @@
                   "tax_office": 3453,
                   "title": "Petrov Val",
                   "title_ru": "Петров Вал",
-                  "title_ru_ablt": "Петровым валом",
-                  "title_ru_accs": "Петров вал",
-                  "title_ru_datv": "Петрову валу",
-                  "title_ru_gent": "Петрова вала",
-                  "title_ru_loct": "Петрове вале",
+                  "title_ru_ablt": "Петровым Валом",
+                  "title_ru_accs": "Петров Вал",
+                  "title_ru_datv": "Петрову Валу",
+                  "title_ru_gent": "Петрова Вала",
+                  "title_ru_loct": "Петрове Вале",
                   "type_ru": "г",
                   "tz": "UTC+4",
                   "zip": 403840
@@ -722,6 +726,7 @@
               "iso3": "RU-KL",
               "lat": 46.2313018,
               "long": 45.3275745,
+              "okato": 85000000000,
               "population": 271135,
               "regions": [
                 {
@@ -812,6 +817,7 @@
               "iso3": "RU-KDA",
               "lat": 45.7684014,
               "long": 39.0261044,
+              "okato": 3000000000,
               "population": 5677786,
               "regions": [
                 {
@@ -1467,6 +1473,7 @@
               "iso3": "RU-CR",
               "lat": 45.4,
               "long": 34,
+              "okato": 35000000000,
               "population": 1912025,
               "regions": [
                 {
@@ -1860,6 +1867,7 @@
               "iso3": "RU-ROS",
               "lat": 47.6222451,
               "long": 40.7957942,
+              "okato": 60000000000,
               "population": 4195327,
               "regions": [
                 {
@@ -2455,18 +2463,21 @@
           "title_ru": "Южный",
           "title_ru_ablt": "Южным",
           "title_ru_accs": "Южный",
+          "title_ru_alt": [ "Южный федеральный округ" ],
           "title_ru_datv": "Южному",
           "title_ru_gent": "Южного",
           "title_ru_loct": "Южном",
           "type": "district"
         },
         {
+          "okato": 35,
           "regions": [
             {
               "code": 4,
               "iso3": "RU-AL",
               "lat": 50.7114101,
               "long": 86.8572186,
+              "okato": 84000000000,
               "population": 220140,
               "regions": [
                 {
@@ -2507,6 +2518,7 @@
               "iso3": "RU-ALT",
               "lat": 52.6932243,
               "long": 82.6931424,
+              "okato": 1000000000,
               "population": 2317052,
               "regions": [
                 {
@@ -2806,6 +2818,7 @@
               "iso3": "RU-IRK",
               "lat": 56.6370122,
               "long": 104.719221,
+              "okato": 25000000000,
               "population": 2390827,
               "regions": [
                 {
@@ -3343,6 +3356,7 @@
               "iso3": "RU-KEM",
               "lat": 54.5335781,
               "long": 87.342861,
+              "okato": 32000000000,
               "population": 2657758,
               "regions": [
                 {
@@ -3831,6 +3845,7 @@
               "iso3": "RU-KYA",
               "lat": 63.3233807,
               "long": 97.0979974,
+              "okato": 4000000000,
               "population": 2867875,
               "regions": [
                 {
@@ -4394,6 +4409,7 @@
               "iso3": "RU-NVS",
               "lat": 54.9720169,
               "long": 79.4813924,
+              "okato": 50000000000,
               "population": 2798251,
               "regions": [
                 {
@@ -4753,6 +4769,7 @@
               "iso3": "RU-OMS",
               "lat": 56.0935263,
               "long": 73.5099936,
+              "okato": 52000000000,
               "population": 1926562,
               "regions": [
                 {
@@ -4918,6 +4935,7 @@
               "iso3": "RU-TOM",
               "lat": 58.6124279,
               "long": 82.0475315,
+              "okato": 69000000000,
               "population": 1079051,
               "regions": [
                 {
@@ -5077,6 +5095,7 @@
               "iso3": "RU-TY",
               "lat": 51.4017149,
               "long": 93.8582593,
+              "okato": 93000000000,
               "population": 327388,
               "regions": [
                 {
@@ -5215,6 +5234,7 @@
               "iso3": "RU-KK",
               "lat": 53.5,
               "long": 90,
+              "okato": 95000000000,
               "population": 534186,
               "regions": [
                 {
@@ -5348,18 +5368,21 @@
           "title_ru": "Сибирский",
           "title_ru_ablt": "Сибирским",
           "title_ru_accs": "Сибирский",
+          "title_ru_alt": [ "Сибирский федеральный округ" ],
           "title_ru_datv": "Сибирскому",
           "title_ru_gent": "Сибирского",
           "title_ru_loct": "Сибирском",
           "type": "district"
         },
         {
+          "okato": 36,
           "regions": [
             {
               "code": 28,
               "iso3": "RU-AMU",
               "lat": 52.8032368,
               "long": 128.437295,
+              "okato": 10000000000,
               "population": 790676,
               "regions": [
                 {
@@ -5611,6 +5634,7 @@
               "iso3": "RU-BU",
               "lat": 52.7182426,
               "long": 109.492143,
+              "okato": 81000000000,
               "population": 986109,
               "regions": [
                 {
@@ -5774,6 +5798,7 @@
               "iso3": "RU-YEV",
               "lat": 48.57527615,
               "long": 132.6630746,
+              "okato": 99000000000,
               "population": 158381,
               "regions": [
                 {
@@ -5839,6 +5864,7 @@
               "iso3": "RU-ZAB",
               "lat": 52.248521,
               "long": 115.956325,
+              "okato": 76000000000,
               "population": 1059657,
               "regions": [
                 {
@@ -6104,6 +6130,7 @@
               "iso3": "RU-KAM",
               "lat": 57.1914882,
               "long": 160.0383819,
+              "okato": 30000000000,
               "population": 312438,
               "regions": [
                 {
@@ -6192,6 +6219,7 @@
               "iso3": "RU-MAG",
               "lat": 62.48858785,
               "long": 153.9903764,
+              "okato": 44000000000,
               "population": 140199,
               "regions": [
                 {
@@ -6257,6 +6285,7 @@
               "iso3": "RU-PRI",
               "lat": 45.0819456,
               "long": 134.726645,
+              "okato": 5000000000,
               "population": 1895305,
               "regions": [
                 {
@@ -6550,6 +6579,7 @@
               "iso3": "RU-SAK",
               "lat": 49.7219665,
               "long": 143.448533,
+              "okato": 64000000000,
               "population": 488453,
               "regions": [
                 {
@@ -6915,6 +6945,7 @@
               "iso3": "RU-KHA",
               "lat": 51.6312684,
               "long": 136.121524,
+              "okato": 8000000000,
               "population": 1315310,
               "regions": [
                 {
@@ -7095,6 +7126,7 @@
               "iso3": "RU-CHU",
               "lat": 66.0006475,
               "long": 169.4900869,
+              "okato": 77000000000,
               "population": 50726,
               "regions": [
                 {
@@ -7185,6 +7217,7 @@
               "iso3": "RU-SA",
               "lat": 66.941626,
               "long": 129.642371,
+              "okato": 98000000000,
               "population": 970105,
               "regions": [
                 {
@@ -7526,18 +7559,21 @@
           "title_ru": "Дальневосточный",
           "title_ru_ablt": "Дальневосточным",
           "title_ru_accs": "Дальневосточный",
+          "title_ru_alt": [ "Дальневосточный федеральный округ" ],
           "title_ru_datv": "Дальневосточному",
           "title_ru_gent": "Дальневосточного",
           "title_ru_loct": "Дальневосточном",
           "type": "district"
         },
         {
+          "okato": 31,
           "regions": [
             {
               "code": 29,
               "iso3": "RU-ARK",
               "lat": 63.5589686,
               "long": 43.1221646,
+              "okato": 11001000000,
               "population": 1092277,
               "regions": [
                 {
@@ -7871,6 +7907,7 @@
               "iso3": "RU-VLG",
               "lat": 60.0391461,
               "long": 43.1215213,
+              "okato": 19000000000,
               "population": 1160721,
               "regions": [
                 {
@@ -8259,6 +8296,7 @@
               "iso3": "RU-KGD",
               "lat": 54.7293041,
               "long": 21.1489473,
+              "okato": 27000000000,
               "population": 1012253,
               "regions": [
                 {
@@ -8814,6 +8852,7 @@
               "iso3": "RU-KR",
               "lat": 62.6194031,
               "long": 33.4920267,
+              "okato": 86000000000,
               "population": 614628,
               "regions": [
                 {
@@ -9150,6 +9189,7 @@
               "iso3": "RU-KO",
               "lat": 63.9881421,
               "long": 54.3326073,
+              "okato": 87000000000,
               "population": 820171,
               "regions": [
                 {
@@ -9401,6 +9441,7 @@
               "iso3": "RU-LEN",
               "lat": 60.1853296,
               "long": 32.3925325,
+              "okato": 41000000000,
               "population": 1876392,
               "regions": [
                 {
@@ -10241,6 +10282,7 @@
               "iso3": "RU-MUR",
               "lat": 68.0000418,
               "long": 33.9999151,
+              "okato": 47000000000,
               "population": 741511,
               "regions": [
                 {
@@ -10634,6 +10676,7 @@
               "iso3": "RU-NEN",
               "lat": 68.27557185,
               "long": 57.1686375,
+              "okato": 11100000000,
               "population": 44110,
               "regions": [
                 {
@@ -10675,6 +10718,7 @@
               "iso3": "RU-NGR",
               "lat": 58.2843833,
               "long": 32.5169757,
+              "okato": 49000000000,
               "population": 596173,
               "regions": [
                 {
@@ -10940,6 +10984,7 @@
               "iso3": "RU-PSK",
               "lat": 57.5358729,
               "long": 28.8586826,
+              "okato": 58000000000,
               "population": 626046,
               "regions": [
                 {
@@ -11330,18 +11375,21 @@
           "title_ru": "Северо-Западный",
           "title_ru_ablt": "Северо-Западным",
           "title_ru_accs": "Северо-Западный",
+          "title_ru_alt": [ "Северо-Западный федеральный округ" ],
           "title_ru_datv": "Северо-Западному",
           "title_ru_gent": "Северо-Западного",
           "title_ru_loct": "Северо-Западном",
           "type": "district"
         },
         {
+          "okato": 33,
           "regions": [
             {
               "code": 2,
               "iso3": "RU-BA",
               "lat": 54.8573563,
               "long": 57.1439682,
+              "okato": 80000000000,
               "population": 4037811,
               "regions": [
                 {
@@ -11868,6 +11916,7 @@
               "iso3": "RU-KIR",
               "lat": 57.9665589,
               "long": 49.4074599,
+              "okato": 33000000000,
               "population": 1262549,
               "regions": [
                 {
@@ -12331,6 +12380,7 @@
               "iso3": "RU-ME",
               "lat": 56.5767504,
               "long": 47.8817512,
+              "okato": 88000000000,
               "population": 679094,
               "regions": [
                 {
@@ -12443,6 +12493,7 @@
               "iso3": "RU-MO",
               "lat": 54.4419829,
               "long": 44.4661144,
+              "okato": 89000000000,
               "population": 790829,
               "regions": [
                 {
@@ -12630,6 +12681,7 @@
               "iso3": "RU-NIZ",
               "lat": 55.4718033,
               "long": 44.0911594,
+              "okato": 22000000000,
               "population": 3203818,
               "regions": [
                 {
@@ -13327,6 +13379,7 @@
               "iso3": "RU-ORE",
               "lat": 52.0269262,
               "long": 54.7276647,
+              "okato": 53000000000,
               "population": 1956256,
               "regions": [
                 {
@@ -13624,6 +13677,7 @@
               "iso3": "RU-PNZ",
               "lat": 53.1655415,
               "long": 44.7879181,
+              "okato": 56000000000,
               "population": 1304825,
               "regions": [
                 {
@@ -13910,6 +13964,7 @@
               "iso3": "RU-PER",
               "lat": 58.5951603,
               "long": 56.3159546,
+              "okato": 57000000000,
               "population": 2599301,
               "regions": [
                 {
@@ -14524,6 +14579,7 @@
               "iso3": "RU-SAM",
               "lat": 53.2128813,
               "long": 50.8914633,
+              "okato": 36000000000,
               "population": 3179026,
               "regions": [
                 {
@@ -14796,6 +14852,7 @@
               "iso3": "RU-SAR",
               "lat": 51.6520555,
               "long": 46.8631952,
+              "okato": 63000000000,
               "population": 2421785,
               "regions": [
                 {
@@ -15238,6 +15295,7 @@
               "iso3": "RU-TA",
               "lat": 55.7648572,
               "long": 52.43104273,
+              "okato": 92000000000,
               "population": 3902642,
               "regions": [
                 {
@@ -15852,6 +15910,7 @@
               "iso3": "RU-UD",
               "lat": 57.1961165,
               "long": 52.6959832,
+              "okato": 94000000000,
               "population": 1501005,
               "regions": [
                 {
@@ -16010,6 +16069,7 @@
               "iso3": "RU-ULY",
               "lat": 54.1463177,
               "long": 47.2324921,
+              "okato": 73000000000,
               "population": 1229687,
               "regions": [
                 {
@@ -16169,6 +16229,7 @@
               "iso3": "RU-CU",
               "lat": 55.4259922,
               "long": 47.0849429,
+              "okato": 97000000000,
               "population": 1217820,
               "regions": [
                 {
@@ -16403,18 +16464,21 @@
           "title_ru": "Приволжский",
           "title_ru_ablt": "Приволжским",
           "title_ru_accs": "Приволжский",
+          "title_ru_alt": [ "Приволжский федеральный округ" ],
           "title_ru_datv": "Приволжскому",
           "title_ru_gent": "Приволжского",
           "title_ru_loct": "Приволжском",
           "type": "district"
         },
         {
+          "okato": 30,
           "regions": [
             {
               "code": 31,
               "iso3": "RU-BEL",
               "lat": 50.7080119,
               "long": 37.5837615,
+              "okato": 14000000000,
               "population": 1547532,
               "regions": [
                 {
@@ -16699,6 +16763,7 @@
               "iso3": "RU-BRY",
               "lat": 52.8873315,
               "long": 33.415853,
+              "okato": 15000000000,
               "population": 1192570,
               "regions": [
                 {
@@ -17104,6 +17169,7 @@
               "iso3": "RU-VLA",
               "lat": 56.0503336,
               "long": 40.6561633,
+              "okato": 17000000000,
               "population": 1358538,
               "regions": [
                 {
@@ -17686,6 +17752,7 @@
               "iso3": "RU-VOR",
               "lat": 50.9800393,
               "long": 40.1506507,
+              "okato": 20000000000,
               "population": 2323657,
               "regions": [
                 {
@@ -18074,6 +18141,7 @@
               "iso3": "RU-IVA",
               "lat": 56.9167446,
               "long": 41.4352137,
+              "okato": 24000000000,
               "population": 997196,
               "regions": [
                 {
@@ -18512,6 +18580,7 @@
               "iso3": "RU-KLU",
               "lat": 54.4382773,
               "long": 35.5272854,
+              "okato": 29000000000,
               "population": 1000070,
               "regions": [
                 {
@@ -19076,6 +19145,7 @@
               "iso3": "RU-KOS",
               "lat": 58.424756,
               "long": 44.2533273,
+              "okato": 34000000000,
               "population": 633392,
               "regions": [
                 {
@@ -19389,6 +19459,7 @@
               "iso3": "RU-KRS",
               "lat": 51.6568453,
               "long": 36.4852695,
+              "okato": 38000000000,
               "population": 1103059,
               "regions": [
                 {
@@ -19647,6 +19718,7 @@
               "iso3": "RU-LIP",
               "lat": 52.6935178,
               "long": 39.1122664,
+              "okato": 42000000000,
               "population": 1139492,
               "regions": [
                 {
@@ -19886,6 +19958,7 @@
               "iso3": "RU-MOS",
               "lat": 55.5043158,
               "long": 38.0353929,
+              "okato": 46000000000,
               "population": 7687647,
               "regions": [
                 {
@@ -21706,6 +21779,7 @@
               "iso3": "RU-ORL",
               "lat": 52.85,
               "long": 36.433,
+              "okato": 54000000000,
               "population": 733682,
               "regions": [
                 {
@@ -21892,6 +21966,7 @@
               "iso3": "RU-RYA",
               "lat": 54.4226732,
               "long": 40.5705246,
+              "okato": 61000000000,
               "population": 1108924,
               "regions": [
                 {
@@ -22201,6 +22276,7 @@
               "iso3": "RU-SMO",
               "lat": 55.0343496,
               "long": 33.0192065,
+              "okato": 66000000000,
               "population": 934747,
               "regions": [
                 {
@@ -22589,6 +22665,7 @@
               "iso3": "RU-TAM",
               "lat": 52.9019574,
               "long": 41.3578918,
+              "okato": 68000000000,
               "population": 1006962,
               "regions": [
                 {
@@ -22792,6 +22869,7 @@
               "iso3": "RU-TVE",
               "lat": 57.1134475,
               "long": 35.1744428,
+              "okato": 28000000000,
               "population": 1260345,
               "regions": [
                 {
@@ -23366,6 +23444,7 @@
               "iso3": "RU-TUL",
               "lat": 53.9570701,
               "long": 37.3690909,
+              "okato": 70000000000,
               "population": 1466025,
               "regions": [
                 {
@@ -23854,6 +23933,7 @@
               "iso3": "RU-YAR",
               "lat": 57.7781976,
               "long": 39.0021095,
+              "okato": 78000000000,
               "population": 1253189,
               "regions": [
                 {
@@ -23873,10 +23953,10 @@
                   "title": "Gavrilov-Yam",
                   "title_ru": "Гаврилов-Ям",
                   "title_ru_ablt": "Гавриловым-Ямом",
-                  "title_ru_accs": "Гаврилова-Ям",
+                  "title_ru_accs": "Гаврилов-Ям",
                   "title_ru_datv": "Гаврилову-Яму",
                   "title_ru_gent": "Гаврилова-Яма",
-                  "title_ru_loct": "Гаврилове-Яме",
+                  "title_ru_loct": "Гавриловом-Яме",
                   "type_ru": "г",
                   "tz": "UTC+3",
                   "zip": 152240
@@ -24143,18 +24223,21 @@
           "title_ru": "Центральный",
           "title_ru_ablt": "Центральный",
           "title_ru_accs": "Центральный",
+          "title_ru_alt": [ "Центральный федеральный округ" ],
           "title_ru_datv": "Центральный",
           "title_ru_gent": "Центральный",
           "title_ru_loct": "Центральный",
           "type": "district"
         },
         {
+          "okato": 38,
           "regions": [
             {
               "code": 5,
               "iso3": "RU-DA",
               "lat": 43.0574916,
               "long": 47.1332224,
+              "okato": 82000000000,
               "population": 3111353,
               "regions": [
                 {
@@ -24402,6 +24485,7 @@
               "iso3": "RU-IN",
               "lat": 43.11542075,
               "long": 45.01713552,
+              "okato": 26000000000,
               "population": 506688,
               "regions": [
                 {
@@ -24534,6 +24618,7 @@
               "iso3": "RU-KB",
               "lat": 43.4806048,
               "long": 43.5978976,
+              "okato": 83000000000,
               "population": 868174,
               "regions": [
                 {
@@ -24746,6 +24831,7 @@
               "iso3": "RU-KC",
               "lat": 43.916667,
               "long": 41.783333,
+              "okato": 91000000000,
               "population": 465669,
               "regions": [
                 {
@@ -24858,6 +24944,7 @@
               "iso3": "RU-SE",
               "lat": 42.7933611,
               "long": 44.6324493,
+              "okato": 90000000000,
               "population": 697064,
               "regions": [
                 {
@@ -25024,6 +25111,7 @@
               "iso3": "RU-STA",
               "lat": 44.8632577,
               "long": 43.4406913,
+              "okato": 7000000000,
               "population": 2803021,
               "regions": [
                 {
@@ -25501,6 +25589,7 @@
               "iso3": "RU-CE",
               "lat": 43.3976147,
               "long": 45.6985005,
+              "okato": 96000000000,
               "population": 1476752,
               "regions": [
                 {
@@ -25666,18 +25755,21 @@
           "title_ru": "Северо-Кавказский",
           "title_ru_ablt": "Северо-Кавказским",
           "title_ru_accs": "Северо-Кавказский",
+          "title_ru_alt": [ "Северо-Кавказский федеральный округ" ],
           "title_ru_datv": "Северо-Кавказскому",
           "title_ru_gent": "Северо-Кавказского",
           "title_ru_loct": "Северо-Кавказском",
           "type": "district"
         },
         {
+          "okato": 34,
           "regions": [
             {
               "code": 45,
               "iso3": "RU-KGN",
               "lat": 55.7655302,
               "long": 64.5632681,
+              "okato": 37000000000,
               "population": 826941,
               "regions": [
                 {
@@ -25916,6 +26008,7 @@
               "iso3": "RU-SVE",
               "lat": 58.6414755,
               "long": 61.8021546,
+              "okato": 65000000000,
               "population": 4310861,
               "regions": [
                 {
@@ -27038,6 +27131,7 @@
               "iso3": "RU-TYU",
               "lat": 58.8206488,
               "long": 70.3658837,
+              "okato": 71001000000,
               "population": 1537684,
               "regions": [
                 {
@@ -27171,6 +27265,7 @@
               "iso3": "RU-KHM",
               "lat": 61.0259025,
               "long": 69.0982628,
+              "okato": 71100000000,
               "population": 1674086,
               "regions": [
                 {
@@ -27550,7 +27645,7 @@
               "title_ru": "Ханты-Мансийский АО",
               "title_ru_ablt": "Ханты-Мансийским АО",
               "title_ru_accs": "Ханты-Мансийский АО",
-              "title_ru_alt": [ "Ханты-Мансийский Автономный округ - Югра автономный округ" ],
+              "title_ru_alt": [ "Ханты-Мансийский Автономный округ - Югра автономный округ", "Ханты-Мансийский автономный округ - Югра (Тюменская область)" ],
               "title_ru_datv": "Ханты-Мансийскому АО",
               "title_ru_gent": "Ханты-Мансийского АО",
               "title_ru_loct": "Ханты-Мансийском АО",
@@ -27561,6 +27656,7 @@
               "iso3": "RU-CHE",
               "lat": 54.4223954,
               "long": 61.1865846,
+              "okato": 75000000000,
               "population": 3466960,
               "regions": [
                 {
@@ -28249,7 +28345,7 @@
                   "oktmo": 75764000001,
                   "population": 37890,
                   "tax_office": 7424,
-                  "title": "YUzhnouralsk",
+                  "title": "Yuzhnouralsk",
                   "title_ru": "Южноуральск",
                   "title_ru_ablt": "Южноуральском",
                   "title_ru_accs": "Южноуральск",
@@ -28300,6 +28396,7 @@
               "iso3": "RU-YAN",
               "lat": 67.1471631,
               "long": 74.3415488,
+              "okato": 71140000000,
               "population": 544008,
               "regions": [
                 {
@@ -28493,7 +28590,7 @@
               "title_ru": "Ямало-Ненецкий АО",
               "title_ru_ablt": "Ямало-Ненецким АО",
               "title_ru_accs": "Ямало-Ненецкий АО",
-              "title_ru_alt": [ "Ямало-Ненецкий автономный округ" ],
+              "title_ru_alt": [ "Ямало-Ненецкий автономный округ", "Ямало-Ненецкий автономный округ (Тюменская область)" ],
               "title_ru_datv": "Ямало-Ненецкому АО",
               "title_ru_gent": "Ямало-Ненецкого АО",
               "title_ru_loct": "Ямало-Ненецком АО",
@@ -28505,6 +28602,7 @@
           "title_ru": "Уральский",
           "title_ru_ablt": "Уральским",
           "title_ru_accs": "Уральский",
+          "title_ru_alt": [ "Уральский федеральный округ" ],
           "title_ru_datv": "Уральскому",
           "title_ru_gent": "Уральского",
           "title_ru_loct": "Уральском",
@@ -28515,6 +28613,7 @@
       "title_ru": "Россия",
       "title_ru_ablt": "Россией",
       "title_ru_accs": "Россию",
+      "title_ru_alt": [ "Российская Федерация" ],
       "title_ru_datv": "России",
       "title_ru_gent": "России",
       "title_ru_loct": "России",
